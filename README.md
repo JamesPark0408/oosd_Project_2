@@ -5,7 +5,7 @@ This project creates a mini game (Similar to FlappyBird), practicing object-orie
 - Basic Academic Game Engine Library (Bagel) 
 
 # Controls:
-space - jump
-L - timescale increased by 1 (Max 5) Increase movement rate of pipes by 50% each increment
-K - timescale decreased by 1 (Min 1) Decrease movement rate of pipes by 50% each decrement
+space - jump  
+L - timescale increased by 1 (Max 5) Increase movement rate of pipes by 50% each increment  
+K - timescale decreased by 1 (Min 1) Decrease movement rate of pipes by 50% each decrement  
 S - shoot
